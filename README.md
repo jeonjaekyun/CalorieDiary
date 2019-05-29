@@ -11,9 +11,11 @@ Andorid를 공부하던 중 프로젝트를 만들어보고 싶어 평소 관심
 
 사용자가 칼로리 섭취량을 기록하여 자신의 식단을 확인하고 관리한다
 
-## 스크린샷
+## 구조도
 
-## 개발 흐름도
+![CalorieDiary_Structure_Chart](https://user-images.githubusercontent.com/39545165/58540269-fc56ca00-8233-11e9-9ef3-7eaec93c4e25.jpg)
+
+## 스크린샷
 
 ## DB 구성
 
