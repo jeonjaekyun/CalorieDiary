@@ -18,12 +18,18 @@ Andorid를 공부하던 중 프로젝트를 만들어보고 싶어 평소 관심
 ## 스크린샷
 
 <div>
-  <img width="200" src="https://user-images.githubusercontent.com/39545165/58540556-91f25980-8234-11e9-9ed8-161c30db8793.png">
-  시작
-  <img width="200" src="https://user-images.githubusercontent.com/39545165/58540557-91f25980-8234-11e9-8e2b-cb2c66ac8321.png">
-  개인정보입력
-  <img width="200" src="https://user-images.githubusercontent.com/39545165/58540559-91f25980-8234-11e9-9315-462f1f27f8a6.png">
-  
+  <div>
+    <img width="200" src="https://user-images.githubusercontent.com/39545165/58540556-91f25980-8234-11e9-9ed8-161c30db8793.png">
+    시작
+  </div>
+  <div>
+    <img width="200" src="https://user-images.githubusercontent.com/39545165/58540557-91f25980-8234-11e9-8e2b-cb2c66ac8321.png">
+    개인정보입력
+  </div>
+  <div>
+    <img width="200" src="https://user-images.githubusercontent.com/39545165/58540559-91f25980-8234-11e9-9315-462f1f27f8a6.png">
+    메인
+  </div>
 </div>
 <br>
 <div>
